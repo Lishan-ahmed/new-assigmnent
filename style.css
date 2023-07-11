@@ -1,0 +1,186 @@
+/* nav related section */
+.primary-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    background: rgba(229, 84, 115, 0.10); 
+
+}
+.image-info{
+   margin-bottom: 0px;
+   margin-right: 0px;
+
+   
+
+}
+.header-info{
+   color: #272727;
+   font-family: Lato;
+   font-size: 80px;
+   font-weight: 800;
+}
+.paragraph{
+   color: rgba(39, 39, 39, 0.60);
+   font-family: Lato;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+}
+.btn{
+   border-radius: 8px;
+   background: #E55473;
+   color: white;
+   border: 0;
+   padding: 20px 43px;
+}
+.header-container{
+   padding-top: 200px;
+   padding-left: 240px;
+   margin: 32px;
+}
+
+/* main section */
+
+.main-header{
+  margin: 200px;
+   
+}
+.section-container{
+   border-radius: 300px 300px 0px 0px;
+   background: rgba(167, 33, 98, 0.15);
+   width: 464px;
+   hight: 538px;
+}
+.header-title{
+   color: #272727;
+   text-align: center;
+   font-family: Lato;
+   font-size: 40px;
+   font-weight: 800;
+   margin-top: 178px; 
+}
+.image-size{
+   padding: 110px 78px 0px;
+}
+.image-description{
+   display: flex;
+   gap: 15px;
+   padding-bottom: 0;
+   margin-top: 100px;
+   justify-content: space-around;
+ 
+}
+.section-title{
+   display: flex;
+   justify-content: space-around;
+   color: #272727;
+   text-align: center;
+   font-family: Lato;
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 35px;
+   text-decoration-line: underline;
+}
+
+
+/* Hot Deals */
+
+.mid-section{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   background: rgba(229, 84, 115, 0.05);
+   margin-top: 100px;
+
+}
+.header-container-info{
+   padding: 250px 0px 240px;
+}
+.head-info{
+   color: #272727;
+   font-family: Lato;
+   font-size: 40px;
+   font-weight: 800;
+}
+.paragraph-info{
+   display: flex;
+   width: 594px;
+   flex-direction: column;
+}
+.head-taitle{
+   color: #E55473;
+}
+
+/* <!-- Social Media section --> */
+
+.paragraph-info-title{
+   color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-family: Lato;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+  
+}
+.Social-media{
+   display: flex;
+   margin: auto ;
+   gap: 20px;
+}
+
+/* last-section */
+
+.content{
+   position: relative;
+   top: 50px;
+   margin: auto;
+}
+.banner{
+   position: absolute;
+   top: 0;  
+   padding: 180px;
+   text-align: center;
+   margin-left: 200px;
+  
+}
+.input{
+   width: 450px;
+   height: 34px;
+   background: #FFF;
+   border: 0;
+}
+
+ /* footer related */
+
+ .footer-section{
+   background-color:#111010;
+   margin-top: 90px;
+   height: 450px;
+   text-align: center;
+   padding-top: 100px;
+ }
+ .footer-head{
+   color: #E55473;
+   font-family: Lato;
+   font-size: 48px;
+   font-weight: 800;
+ }
+ .footer-para{
+   color: rgba(255, 255, 255, 0.90);
+   font-family: Lato;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+ }
+ .footer-para1{
+   color: rgba(255, 255, 255, 0.90);
+   font-family: Lato;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+ }
+.footer-span{
+   color: white;
+ }
